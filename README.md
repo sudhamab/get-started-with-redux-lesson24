@@ -1,7 +1,7 @@
-# get-started-with-redux-lesson23
+# get-started-with-redux-lesson24
 
 ### What is in this repo? 
-This is based on the lessons from https://egghead.io/series/getting-started-with-redux, lesson 23,
+This is based on the lessons from https://egghead.io/series/getting-started-with-redux, lesson 24,
 so one can look at how the running code looks like. It will get more complicated with subsequent 
 lessons
 
